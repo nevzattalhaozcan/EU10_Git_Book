@@ -1,0 +1,8 @@
+
+
+Hey! This page is my first text page in IntelliJ.
+
+I'll use this in Git class.
+
+Today is 6th December, 2022. It is 12:05 AM.
+
