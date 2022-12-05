@@ -1,8 +1,8 @@
 
 
 
-this is page 2.
+This is page 2.
 
 At the end of this class, I will be able to commit my files
 
-It's 1:30 AM here and cold outside. The date is 12/6/2022
+It's 1:30 AM here and cold outside. The date is 12/6/2022.
